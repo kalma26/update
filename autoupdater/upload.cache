@@ -61,7 +61,7 @@
 /DataTable/en-gb/NDEventShip.edf.zip|52d411447168092beece3121e030e9fe
 /DataTable/en-gb/NDItem.bck.zip|9e31cc904259b76c9af20b9a81e9ae6f
 /DataTable/en-gb/NDItem.dat.zip|8ce7c79bbbf14553eb44aa39c07faf39
-/DataTable/en-gb/NDItem.edf.zip|a88480a427fd4a6af618109c961f233a
+/DataTable/en-gb/NDItem.edf.zip|ed695f7bbe7c5a51e6354967049b973e
 /DataTable/en-gb/NDItemCash.dat.zip|dd153971e52eba529f678e5af6e2f4c5
 /DataTable/en-gb/NDItemCash.edf.zip|c4ceb6434a28027984741910dbf4e691
 /DataTable/en-gb/NDLanguage.dat.zip|ccab857b8eda0b30f21eefdf769c4732
@@ -77,7 +77,7 @@
 /DataTable/en-gb/NDSkillForce.dat.zip|d44750dc1904ee6be74286ffb9e0b7cf
 /DataTable/en-gb/NDSkillForce.edf.zip|f1973e03eb969a2c469789b833d08ac2
 /DataTable/en-gb/NDStore.dat.zip|2bb0157c01157008df415f4301a25562
-/DataTable/en-gb/NDStore.edf.zip|4ba1ff739ac2619a0e3169714f9e108b
+/DataTable/en-gb/NDStore.edf.zip|94be8162a4096aee04ed6c47584d2045
 /DataTable/en-gb/PcRoom.dat.zip|c6b3c89d738b160fca5811c191e56e8d
 /DataTable/en-gb/PcRoom.edf.zip|1711507cb3a6f60e53719b2712deeb1f
 /DataTable/en-gb/Player.dat.zip|3a8bf672de66306497f16a2065e11a3b
@@ -166,7 +166,7 @@
 /DataTable/item.dat.zip.zip|0de00d3193f0d4fd66de8dfa17baab1b
 /DataTable/item.dat.zip|f9761df3ed2d1463ddf6436eb7cfb034
 /DataTable/item.edf.zip.zip|b674377aea9beb888446c33cae88becd
-/DataTable/item.edf.zip|241abb11e33131c4376773189024890a
+/DataTable/item.edf.zip|db1047c70931b89932fe601dd27b6c32
 /DataTable/itemcash.dat.zip.zip|fad12201e567193850849ac0e7b17413
 /DataTable/itemcash.dat.zip|0185ee4e485fc14ff1c8737cece7af97
 /DataTable/map.dat.zip.zip|ce969be36807eea39ecb8fd6be8a3ade
@@ -200,7 +200,7 @@
 /DataTable/store.dat.zip.zip|9c15eee78857acbc615f24125767090d
 /DataTable/store.dat.zip|c9386d2cbd4fa6779b6d706634aa0284
 /DataTable/store.edf.zip.zip|106e963054718f914fd0bac2d49dc1b0
-/DataTable/store.edf.zip|3daa6593f1ba2f0f4a87483e120951b6
+/DataTable/store.edf.zip|a2ffc20faab9f7ec1eb1223cb9f0bd73
 /SpriteImage/common/item.spr.zip|5dc83670a65949be955d30d9d3e199f9
 /System/010.TTF.zip|f55b78b95cb16d0910fa9e58413e1c96
 /System/CCRFG.DLL.zip|3f43454b9ed7a00402d5cbdfd7ecf284
