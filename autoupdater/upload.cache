@@ -35,7 +35,7 @@
 /DataTable/character.dat.zip.zip|e55f0ce55b0ad7890fd57d6094ca95d6
 /DataTable/character.dat.zip|3577a70000d31d2192709a1b378b1dd5
 /DataTable/character.edf.zip.zip|f79e71de148c6cb4dd67bc55dcd16a0b
-/DataTable/character.edf.zip|26f2c102166dc86479d5002c7242e2f7
+/DataTable/character.edf.zip|b75c684dc1c3cf9bffea0c198bbe3d24
 /DataTable/clientdb.dat.zip.zip|650237331565db143dacf94b92cda1b7
 /DataTable/clientdb.dat.zip|8b9098499c1399d246dd909cae616402
 /DataTable/en-gb/Aua.dic.zip|acf83289c6baf2e882f038ea60a627ce
@@ -56,12 +56,12 @@
 /DataTable/en-gb/LauncherMessage.ini.zip|7de9404d7dac0d3f93b467123f0a7b43
 /DataTable/en-gb/MAPDATA.DAT.zip|fc7f7007ff19425fc172649adf8c1346
 /DataTable/en-gb/NDCharacter.dat.zip|84f092d87f8f4bb493e83fd836a233e7
-/DataTable/en-gb/NDCharacter.edf.zip|0caa88f92f0f72c593e904e841fb988e
+/DataTable/en-gb/NDCharacter.edf.zip|f62df3b6e85ef944c2f524754001fa41
 /DataTable/en-gb/NDEventShip.dat.zip|18116a0b452088b007d0c315563e83a5
 /DataTable/en-gb/NDEventShip.edf.zip|52d411447168092beece3121e030e9fe
 /DataTable/en-gb/NDItem.bck.zip|9e31cc904259b76c9af20b9a81e9ae6f
 /DataTable/en-gb/NDItem.dat.zip|8ce7c79bbbf14553eb44aa39c07faf39
-/DataTable/en-gb/NDItem.edf.zip|e7b34ceedc84c9d88606f961ce4f6fe2
+/DataTable/en-gb/NDItem.edf.zip|296b9ba09e85fcf3a535653b5b5cb4ae
 /DataTable/en-gb/NDItemCash.dat.zip|dd153971e52eba529f678e5af6e2f4c5
 /DataTable/en-gb/NDItemCash.edf.zip|c4ceb6434a28027984741910dbf4e691
 /DataTable/en-gb/NDLanguage.dat.zip|ccab857b8eda0b30f21eefdf769c4732
@@ -77,7 +77,7 @@
 /DataTable/en-gb/NDSkillForce.dat.zip|d44750dc1904ee6be74286ffb9e0b7cf
 /DataTable/en-gb/NDSkillForce.edf.zip|06b41733f076a4c218b7f121798cd712
 /DataTable/en-gb/NDStore.dat.zip|2bb0157c01157008df415f4301a25562
-/DataTable/en-gb/NDStore.edf.zip|9ac10108a291bf481feb49fdcda917ad
+/DataTable/en-gb/NDStore.edf.zip|c22da5f8346297492b6223d47c7b3c4e
 /DataTable/en-gb/PcRoom.dat.zip|c6b3c89d738b160fca5811c191e56e8d
 /DataTable/en-gb/PcRoom.edf.zip|1711507cb3a6f60e53719b2712deeb1f
 /DataTable/en-gb/Player.dat.zip|3a8bf672de66306497f16a2065e11a3b
@@ -166,7 +166,7 @@
 /DataTable/item.dat.zip.zip|0de00d3193f0d4fd66de8dfa17baab1b
 /DataTable/item.dat.zip|f9761df3ed2d1463ddf6436eb7cfb034
 /DataTable/item.edf.zip.zip|b674377aea9beb888446c33cae88becd
-/DataTable/item.edf.zip|e3d72752141e40cb504e98017877ab20
+/DataTable/item.edf.zip|2898242d026a06c259481f8dc061464b
 /DataTable/itemcash.dat.zip.zip|fad12201e567193850849ac0e7b17413
 /DataTable/itemcash.dat.zip|0185ee4e485fc14ff1c8737cece7af97
 /DataTable/map.dat.zip.zip|ce969be36807eea39ecb8fd6be8a3ade
@@ -200,7 +200,7 @@
 /DataTable/store.dat.zip.zip|9c15eee78857acbc615f24125767090d
 /DataTable/store.dat.zip|c9386d2cbd4fa6779b6d706634aa0284
 /DataTable/store.edf.zip.zip|106e963054718f914fd0bac2d49dc1b0
-/DataTable/store.edf.zip|34f3c8273bb94398478f454f5ce23a98
+/DataTable/store.edf.zip|9ff38adf8b4631f759906bc8329f1158
 /SpriteImage/common/item.spr.zip|32ef90e69438819a632ee083e70108e5
 /System/010.TTF.zip|f55b78b95cb16d0910fa9e58413e1c96
 /System/CCRFG.DLL.zip|3f43454b9ed7a00402d5cbdfd7ecf284
