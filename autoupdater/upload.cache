@@ -61,7 +61,7 @@
 /DataTable/en-gb/NDEventShip.edf.zip|52d411447168092beece3121e030e9fe
 /DataTable/en-gb/NDItem.bck.zip|9e31cc904259b76c9af20b9a81e9ae6f
 /DataTable/en-gb/NDItem.dat.zip|8ce7c79bbbf14553eb44aa39c07faf39
-/DataTable/en-gb/NDItem.edf.zip|cce7abfe823452d78cb1fbb9a9073e4a
+/DataTable/en-gb/NDItem.edf.zip|92b263501e70fe1e2365f7039291f9b1
 /DataTable/en-gb/NDItemCash.dat.zip|dd153971e52eba529f678e5af6e2f4c5
 /DataTable/en-gb/NDItemCash.edf.zip|c4ceb6434a28027984741910dbf4e691
 /DataTable/en-gb/NDLanguage.dat.zip|ccab857b8eda0b30f21eefdf769c4732
@@ -73,11 +73,11 @@
 /DataTable/en-gb/NDMsgMonster.dat.zip|3163f3bfbc3d543267908a13dc761773
 /DataTable/en-gb/NDMsgMonster.edf.zip|37ec22450386845015c86b512e190d10
 /DataTable/en-gb/NDQuest.dat.zip|06ee57083dbed9c76df2ce9d34421747
-/DataTable/en-gb/NDQuest.edf.zip|77d91b2f6e0c73f0d135afedc1a99b61
+/DataTable/en-gb/NDQuest.edf.zip|15958df201deb45246d2a56985fe8e13
 /DataTable/en-gb/NDSkillForce.dat.zip|d44750dc1904ee6be74286ffb9e0b7cf
 /DataTable/en-gb/NDSkillForce.edf.zip|06b41733f076a4c218b7f121798cd712
 /DataTable/en-gb/NDStore.dat.zip|2bb0157c01157008df415f4301a25562
-/DataTable/en-gb/NDStore.edf.zip|52a09c9fe7e22a3f8781786be9a5efe1
+/DataTable/en-gb/NDStore.edf.zip|f1729be5b9dfb71a764e5ae7a1682220
 /DataTable/en-gb/PcRoom.dat.zip|c6b3c89d738b160fca5811c191e56e8d
 /DataTable/en-gb/PcRoom.edf.zip|1711507cb3a6f60e53719b2712deeb1f
 /DataTable/en-gb/Player.dat.zip|3a8bf672de66306497f16a2065e11a3b
@@ -166,7 +166,7 @@
 /DataTable/item.dat.zip.zip|0de00d3193f0d4fd66de8dfa17baab1b
 /DataTable/item.dat.zip|f9761df3ed2d1463ddf6436eb7cfb034
 /DataTable/item.edf.zip.zip|b674377aea9beb888446c33cae88becd
-/DataTable/item.edf.zip|cd4436409b39071985e3834bf20da404
+/DataTable/item.edf.zip|f1b417704da2109e4aba43ad9b05c6d9
 /DataTable/itemcash.dat.zip.zip|fad12201e567193850849ac0e7b17413
 /DataTable/itemcash.dat.zip|0185ee4e485fc14ff1c8737cece7af97
 /DataTable/map.dat.zip.zip|ce969be36807eea39ecb8fd6be8a3ade
@@ -184,7 +184,7 @@
 /DataTable/quest.dat.zip.zip|ddabf15d39596a30fd54dc10f8d73b81
 /DataTable/quest.dat.zip|33e8a51d6c210d022c4167c2187a2838
 /DataTable/quest.edf.zip.zip|c0022411e3bbba67fb121a64968c7206
-/DataTable/quest.edf.zip|7ad6fa70402ebca5d52b70a0fc26ba8c
+/DataTable/quest.edf.zip|1e5d3ab096726108c07ddc55e362d2e3
 /DataTable/resource.dat.zip.zip|3de9fa212dfa29b9caaa5089d39c238e
 /DataTable/resource.dat.zip|f32aa6f07008b56ccf6333b0c57a9b90
 /DataTable/resource.edf.zip.zip|4b8e9330778ea1d7eb84e3ccc4fc47d8
@@ -200,7 +200,7 @@
 /DataTable/store.dat.zip.zip|9c15eee78857acbc615f24125767090d
 /DataTable/store.dat.zip|c9386d2cbd4fa6779b6d706634aa0284
 /DataTable/store.edf.zip.zip|106e963054718f914fd0bac2d49dc1b0
-/DataTable/store.edf.zip|aa7b685363aa38f6acf6a3a28b741065
+/DataTable/store.edf.zip|3a93d51dc5d0421c63829f21f144dfec
 /RF_Online.bin.zip|3898be0b09ddded651eb33b76092ff69
 /SpriteImage/common/item.spr.zip|77c71b9fe6ac4f7eca6ade9aac4c49fa
 /System/Launcher/Config/config.bin.zip|d02e18c3f502e044759a6f10ac06b58e
