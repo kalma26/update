@@ -61,7 +61,7 @@
 /DataTable/en-gb/NDEventShip.edf.zip|52d411447168092beece3121e030e9fe
 /DataTable/en-gb/NDItem.bck.zip|9e31cc904259b76c9af20b9a81e9ae6f
 /DataTable/en-gb/NDItem.dat.zip|8ce7c79bbbf14553eb44aa39c07faf39
-/DataTable/en-gb/NDItem.edf.zip|92b263501e70fe1e2365f7039291f9b1
+/DataTable/en-gb/NDItem.edf.zip|5f7666f2226d1a7ae15c4206e214a91a
 /DataTable/en-gb/NDItemCash.dat.zip|dd153971e52eba529f678e5af6e2f4c5
 /DataTable/en-gb/NDItemCash.edf.zip|c4ceb6434a28027984741910dbf4e691
 /DataTable/en-gb/NDLanguage.dat.zip|ccab857b8eda0b30f21eefdf769c4732
@@ -122,7 +122,7 @@
 /DataTable/en-ph/NDEventShip.edf.zip|39f28f38199a82c602e381f390420092
 /DataTable/en-ph/NDItem.bck.zip|9b575e16d660392d9205c9386875fead
 /DataTable/en-ph/NDItem.dat.zip|5b169db090c4eb2536a64a53f5bd60d5
-/DataTable/en-ph/NDItem.edf.zip|c791fc7e6e6294cda8f054b92a2b898c
+/DataTable/en-ph/NDItem.edf.zip|3bbc4f8a83d3fcdc242657a1b22c9921
 /DataTable/en-ph/NDItemCash.dat.zip|28e724840c03cc6fd7571404903f72a1
 /DataTable/en-ph/NDItemCash.edf.zip|a55fa1156c7b67b1b9169bc418b1c7b8
 /DataTable/en-ph/NDLanguage.dat.zip|fc1ae37d15c38c44f327280dded2e6ec
@@ -166,7 +166,7 @@
 /DataTable/item.dat.zip.zip|0de00d3193f0d4fd66de8dfa17baab1b
 /DataTable/item.dat.zip|f9761df3ed2d1463ddf6436eb7cfb034
 /DataTable/item.edf.zip.zip|b674377aea9beb888446c33cae88becd
-/DataTable/item.edf.zip|f1b417704da2109e4aba43ad9b05c6d9
+/DataTable/item.edf.zip|bea5f976fd8ba6b86c8f5f7a0a359620
 /DataTable/itemcash.dat.zip.zip|fad12201e567193850849ac0e7b17413
 /DataTable/itemcash.dat.zip|0185ee4e485fc14ff1c8737cece7af97
 /DataTable/map.dat.zip.zip|ce969be36807eea39ecb8fd6be8a3ade
@@ -202,5 +202,5 @@
 /DataTable/store.edf.zip.zip|106e963054718f914fd0bac2d49dc1b0
 /DataTable/store.edf.zip|7c5aea5ef22eedc50cc764cff7bc864d
 /RF_Online.bin.zip|3898be0b09ddded651eb33b76092ff69
-/SpriteImage/common/item.spr.zip|5c52a85f3a0b3e042c1403c04aeec729
+/SpriteImage/common/item.spr.zip|fe4040a58766cd75cc7a47262d684aef
 /System/Launcher/Config/config.bin.zip|d02e18c3f502e044759a6f10ac06b58e
